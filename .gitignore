@@ -1,1 +1,3 @@
 file
+template/*
+!template/v1
